@@ -1,0 +1,10 @@
+# Environments and Secrets
+.env
+venv/
+
+# Caches and Editor files
+__pycache__/
+.vscode/
+
+# Runtime Data and Logs
+*.json
